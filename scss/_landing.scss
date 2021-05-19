@@ -1,0 +1,56 @@
+/* :: landing */
+.area-2016{
+	overflow-x: hidden;
+}
+
+.contact-heading{
+
+	h5{
+		color:$c-gray;
+		font-size: 24px;
+    	font-weight: 400;
+    	width: 60%;
+    	@media #{$breakpoint-xs} {
+            width: 90%;           
+        }
+	}
+	
+	span{
+    	margin: 0;
+
+    	&.line{
+		    position: absolute;
+		    height: 3px;
+		    background-color: $primary;
+		    width: 40px;
+		    border-radius: 20%;
+		}
+
+		&.c{
+			margin-top: 0;
+   			margin-left: 0;
+		}
+
+		&.p{
+			margin-top: 0.5rem;
+  			margin-left: 1rem;
+		}
+
+		&.b{
+			margin-top: 0.4rem;
+    		margin-left: 1rem;
+		}
+
+		&.ag{
+			margin-top: 0.55rem;
+    		margin-left: 1rem;
+		}
+
+		&.a{
+			margin-top: 0.5rem;
+  			margin-left: 0.9rem;
+		}
+
+	}
+
+}

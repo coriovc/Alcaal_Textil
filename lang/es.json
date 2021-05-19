@@ -1,0 +1,59 @@
+{   
+    
+    ".head-lang":{
+        "item-1" : "<i class=\"fa fa-angle-left icon-link-1\"></i>Volver a Alcaal",
+        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contacto",        
+
+        "select-lang" : "ESP",
+        "select-idioma" :"<button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('es')\">Español</button>"
+    },
+
+    ".welcome-area-lang":{
+        "title":"Una de las fábricas textiles más grandes de África.",
+        "parrafo":"Desarrollar el sector textil en Angola desde la semilla de algodón hasta el producto final."
+    },
+
+    ".wwd-lang":{
+        "title-1" : "Que hacemos",
+        "title-2" : "Somos una empresa con participación activa en toda la cadena del sector textil, desde las plantaciones de algodón en nuestros establecimientos agroindustriales hasta la producción de tejidos y productos terminados en la mayor fábrica textil de Angola.",
+
+        "text-1" : "Producción de hilo de algodón",
+        "text-2" : "Producción de tejidos",
+        "text-3" : "Telares de alto rendimiento",
+
+        "btn-more" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>MÁS INFO"
+    },
+
+
+    ".sec-3-lang":{
+        "title" : "Por qué Alcaal Textil",
+        "parrafo" : "En Alcaal Textil creemos en aportar valor a las personas ya la economía local",
+        "span" : "RENDIMIENTO",
+        "list-1" : "<i class=\"arrow_right-up mr-2\"></i>Más de 15 años de experiencia en África y en el sector.",
+        "list-2" : "<i class=\"arrow_right-up mr-2\"></i>Capacidad para producir 9 millones de telas por año.",
+        "list-3" : "<i class=\"arrow_right-up mr-2\"></i>Productos textiles de la mejor calidad con el color africano local.",
+        "list-4" : "<i class=\"arrow_right-up mr-2\"></i>Presencia activa en toda la cadena textil.",
+        "list-5" : "<i class=\"arrow_right-up mr-2\"></i>Innovación y tecnología para transferir Know-How.",
+        "list-6" : "<i class=\"arrow_right-up mr-2\"></i>Adquisiciones del sector público y privado, desde ropa de trabajo hasta uniformes de las fuerzas de seguridad."
+    },
+
+
+   
+    ".footer":{
+        "title" : "Para un contacto personalizado por favor complete el siguiente formulario",
+
+        "name" : "<input type=\"text\" class=\"form-control\" name=\"name\" placeholder=\"Ingrese su nombre completo\">",
+        "email" : "<input type=\"email\" class=\"form-control\" name=\"email\" placeholder=\"Ingrese su email\">",
+        "phone" : "<input type=\"tel\" class=\"form-control\" name=\"phone\" placeholder=\"Ingrese su número telefónico\">",
+        "company" : "<input type=\"text\" class=\"form-control\" name=\"company\" placeholder=\"Ingrese su empresa\">",
+        "message" : "<textarea class=\"form-control\" name=\"message\" rows=\"5\" cols=\"80\" placeholder=\"Mensaje\"></textarea>",
+
+        "btn-send" : "ENVIAR",
+        "gracias" : "¡Muchas gracias!",
+        "parrafo-gra" : "El formulario fue enviado con éxito, en un futuro próximo nos pondremos en contacto."
+
+    }
+
+
+
+}
