@@ -4463,6 +4463,12 @@ textarea.form-control {
         @media only screen and (max-width: 767px) {
           .sec-our-profile-area .nl-content .card .card-body {
             padding: 1.5rem; } }
+        .sec-our-profile-area .nl-content .card .card-body .our-link {
+          display: grid; }
+          .sec-our-profile-area .nl-content .card .card-body .our-link i {
+            color: #05C4E4;
+            line-height: 3;
+            font-size: 18px; }
         .sec-our-profile-area .nl-content .card .card-body li {
           font-size: 16px;
           display: block;

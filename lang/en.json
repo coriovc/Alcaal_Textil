@@ -26,15 +26,15 @@
 
 
     ".sec-3-lang":{
-        "title" : "Why Alcaal Textil",
-        "parrafo" : "In Alcaal Textil we believe in adding value to the people and the local economy.",
+        "title" : "Why Alcaal Têxtil",
+        "parrafo" : "In Alcaal Têxtil we believe in adding value to the people and the local economy.",
         "span" : "PERFORMANCE",
-        "list-1" : "<i class=\"arrow_right-up mr-2\"></i>More than 15 years of experience in Africa and in the sector.",
-        "list-2" : "<i class=\"arrow_right-up mr-2\"></i>Capacity to produce 9 million fabrics per year.",
-        "list-3" : "<i class=\"arrow_right-up mr-2\"></i>The best quality of textile products with the local African color.",
-        "list-4" : "<i class=\"arrow_right-up mr-2\"></i>Active presence throughout the entire textile chain.",
-        "list-5" : "<i class=\"arrow_right-up mr-2\"></i>Innovation and technology to transfer Know-How.",
-        "list-6" : "<i class=\"arrow_right-up mr-2\"></i>Procurement of the private and public sector, from work clothes to uniforms of security forces."
+        "list-1" : "More than 15 years of experience in Africa and in the sector.",
+        "list-2" : "Capacity to produce 9 million fabrics per year.",
+        "list-3" : "The best quality of textile products with the local African color.",
+        "list-4" : "Active presence throughout the entire textile chain.",
+        "list-5" : "Innovation and technology to transfer Know-How.",
+        "list-6" : "Procurement of the private and public sector, from work clothes to uniforms of security forces."
     },
 
 

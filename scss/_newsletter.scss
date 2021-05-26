@@ -163,6 +163,15 @@
                     padding: 1.5rem;            
                 }
 
+                .our-link{
+                    display: grid;
+                    i{
+                        color: #05C4E4;
+                        line-height: 3;
+                        font-size: 18px;
+                    }
+                }
+
                 li {
                     font-size: 16px;
                     display: block;
